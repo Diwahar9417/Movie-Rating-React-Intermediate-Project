@@ -16,7 +16,7 @@ Follow these steps to install and run the project:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/movie-rating-app.git
+git clone https://github.com/Diwahar9417/Movie-Rating-React-Intermediate-Project.git
 cd movie-rating-app
 ```
 
